@@ -13,8 +13,8 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/ddoemonn/orb-tab-releases/releases/download/v1.1/OrbTab-1.1.dmg"
-                sparkle:edSignature="0imOtN2Vl6/HwZzaVmH40QEItW9w2fHKQfQfv0XWm0lXpNfmOL3D6VkKsujNK8BPGRvyx6kOh/cvgVnS5dLMBA=="
-                length="1642600"
+                sparkle:edSignature="bcK9rl31BweuflGPyj0c6LIJb4l4G7f6mjZCPgn7bF6YEs6qNoBZg5ut6PVDsZlI8Hsw35mGA/udhUc8Ut+SAg=="
+                length="1673919"
                 type="application/octet-stream"/>
         </item>
     </channel>
