@@ -7,14 +7,14 @@
         <language>en</language>
         <item>
             <title>OrbTab 1.1</title>
-            <pubDate>Sat, 01 Mar 2026 00:00:00 +0000</pubDate>
+            <pubDate>Sun, 02 Mar 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/ddoemonn/orb-tab-releases/releases/download/v1.1/OrbTab-1.1.dmg"
-                sparkle:edSignature="bcK9rl31BweuflGPyj0c6LIJb4l4G7f6mjZCPgn7bF6YEs6qNoBZg5ut6PVDsZlI8Hsw35mGA/udhUc8Ut+SAg=="
-                length="1673919"
+                sparkle:edSignature="eUaIoiDUVya3giyVCIiqSS6XBqQk3sqDjT125YOpQkyA4N2h6d7rg+oYgOovgeeiinEkWV5zgbBtiuaY5yRBAQ=="
+                length="1675918"
                 type="application/octet-stream"/>
         </item>
     </channel>
